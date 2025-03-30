@@ -154,7 +154,7 @@
                 </div>
                 <div class="col-lg-7 col-md-6">
                     <div class="img-box">
-                        <img src="images/about-us.png" alt="">
+                        <img src="images/about_us.gif" alt="">
                     </div>
                 </div>
             </div>
@@ -171,22 +171,22 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="img-box">
-                        <img src="images/professional-img.png" alt="">
+                        <img src="images/Expert_Solutions.gif" alt="Professional Home Services">
                     </div>
                 </div>
-                <div class="col-md-6 ">
+                <div class="col-md-6">
                     <div class="detail-box">
                         <h2>
-                            We Provide Professional <br>
-                            Home Services.
+                            Expert Solutions for Your Home & Business
                         </h2>
                         <p>
-                            randomised words which don't look even slightly believable. If you are going to use a
-                            passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the
-                            middle of text. All randomised words which don't look even slightly
+                            We provide top-quality repair, maintenance, and professional home services tailored to your
+                            needs.
+                            Our skilled team ensures efficiency, reliability, and customer satisfaction in every project
+                            we handle.
                         </p>
-                        <a href="">
-                            Read More
+                        <a href="service.html">
+                            Learn More
                         </a>
                     </div>
                 </div>
@@ -207,7 +207,7 @@
                 <div class="col-sm-6 col-md-3 mx-auto">
                     <div class="box ">
                         <div class="img-box">
-                            <img src="images/s1.png" alt="" />
+                            <img src="images/os1.png" alt="" />
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -237,7 +237,7 @@
                 <div class="col-sm-6 col-md-3 mx-auto">
                     <div class="box ">
                         <div class="img-box">
-                            <img src="images/s2.png" alt="Google Ads" />
+                            <img src="images/os3.png" alt="Google Ads" />
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -253,7 +253,7 @@
                 <div class="col-sm-6 col-md-3 mx-auto">
                     <div class="box ">
                         <div class="img-box">
-                            <img src="images/s3.png" alt="" />
+                            <img src="images/os4.png" alt="" />
                         </div>
                         <div class="detail-box">
                             <h5>
