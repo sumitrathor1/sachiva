@@ -360,7 +360,10 @@
                 <div class="col-md-6">
                     <div class="map_container">
                         <div class="map">
-                            <div id="googleMap" style="width:100%;height:100%;"></div>
+                            <iframe
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4740.721729015654!2d78.21414221557554!3d26.184787006360903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3976c3919eee6109%3A0x90845813445bf620!2sCosmo%20Valley%20Gwalior!5e0!3m2!1sen!2sin!4v1743354377911!5m2!1sen!2sin"
+                                style="width:100%;height:100%;" style="border:0;" allowfullscreen="" loading="lazy"
+                                referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                 </div>
@@ -382,37 +385,38 @@
                     <div class="info_items">
                         <div class="row">
                             <div class="col-md-4">
-                                <a href="">
+                                <a
+                                    href="https://www.google.pl/maps/place/Cosmo+Valley+Gwalior/@26.184787,78.2141422,16.6z/data=!4m14!1m7!3m6!1s0x3976c3919eee6109:0x90845813445bf620!2sCosmo+Valley+Gwalior!8m2!3d26.1850901!4d78.2170529!16s%2Fg%2F11b64knfhf!3m5!1s0x3976c3919eee6109:0x90845813445bf620!8m2!3d26.1850901!4d78.2170529!16s%2Fg%2F11b64knfhf?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D">
                                     <div class="item ">
                                         <div class="img-box ">
                                             <i class="fa fa-map-marker" aria-hidden="true"></i>
                                         </div>
                                         <p>
-                                            Lorem Ipsum is simply dummy text
+                                            27 Krishna Valley near Cosmo Valley morar Gwalior MP India
                                         </p>
                                     </div>
                                 </a>
                             </div>
                             <div class="col-md-4">
-                                <a href="">
+                                <a href="tel:+918818848558">
                                     <div class="item ">
                                         <div class="img-box ">
                                             <i class="fa fa-phone" aria-hidden="true"></i>
                                         </div>
                                         <p>
-                                            +02 1234567890
+                                            +91 8818848558
                                         </p>
                                     </div>
                                 </a>
                             </div>
                             <div class="col-md-4">
-                                <a href="">
+                                <a href="mailto:websecurtiysachiva@gmail.com">
                                     <div class="item ">
                                         <div class="img-box">
                                             <i class="fa fa-envelope" aria-hidden="true"></i>
                                         </div>
                                         <p>
-                                            demo@gmail.com
+                                            websecurtiysachiva@gmail.com
                                         </p>
                                     </div>
                                 </a>
@@ -452,7 +456,7 @@
         <div class="container">
             <p>
                 &copy; <span id="displayDateYear"></span> All Rights Reserved By
-                <a href="https://html.design/">Free Html Templates</a>
+                <a href="./">Sachiva</a>
             </p>
         </div>
     </footer>
