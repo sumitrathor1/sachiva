@@ -15,6 +15,9 @@
     <title>Sachiva</title>
 
     <!-- slider stylesheet -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" type="text/css"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
     <!-- bootstrap core css -->
@@ -104,14 +107,12 @@
                     <div class="col-md-6 ">
                         <div class="detail-box">
                             <h1>
-                                Repair and <br>
-                                Maintenance <br>
-                                Services
+                                Reliable IT Solutions for <br> Your Business
                             </h1>
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui harum voluptatem adipisci.
-                                Quos molestiae saepe dicta nobis pariatur, tempora iusto, ad possimus soluta hic
-                                praesentium mollitia consequatur beatae, aspernatur culpa.
+                                At Sachiva, we specialize in web development, software
+                                solutions, and cybersecurity. Our expert team ensures seamless
+                                digital transformation for businesses of all sizes.
                             </p>
                             <a href="">
                                 Contact Us
@@ -142,10 +143,9 @@
                             About us
                         </h2>
                         <p>
-                            There are many variations of passages of Lorem Ipsum available, but the majority have
-                            suffered alteration in some form, by injected humour, or randomisedThere are many variations
-                            of passages of Lorem Ipsum available, but the majority have suffered alteration in some
-                            form, by injected humour, or randomised
+                            Sachiva is a leading IT solutions provider offering web
+                            development, cybersecurity, and software management services.
+                            Our mission is to empower businesses with innovative technology.
                         </p>
                         <a href="">
                             Read More
@@ -214,8 +214,7 @@
                                 Web Development
                             </h5>
                             <p>
-                                when looking at its layout. The point of using Lorem Ipsum is
-                                that it has a more-or-less normal
+                                Custom websites tailored for businesses, eCommerce, and startups.
                             </p>
                         </div>
                     </div>
@@ -230,8 +229,7 @@
                                 Software Management
                             </h5>
                             <p>
-                                when looking at its layout. The point of using Lorem Ipsum is
-                                that it has a more-or-less normal
+                                Smart, scalable, and efficient software solutions tailored to your business needs.
                             </p>
                         </div>
                     </div>
@@ -239,19 +237,19 @@
                 <div class="col-sm-6 col-md-3 mx-auto">
                     <div class="box ">
                         <div class="img-box">
-                            <img src="images/s2.png" alt="" />
+                            <img src="images/s2.png" alt="Google Ads" />
                         </div>
                         <div class="detail-box">
                             <h5>
                                 Google Ads
                             </h5>
                             <p>
-                                when looking at its layout. The point of using Lorem Ipsum is
-                                that it has a more-or-less normal
+                                Maximize your online visibility with our expert Google Ads services.
                             </p>
                         </div>
                     </div>
                 </div>
+
                 <div class="col-sm-6 col-md-3 mx-auto">
                     <div class="box ">
                         <div class="img-box">
@@ -262,8 +260,8 @@
                                 Cybersecurity
                             </h5>
                             <p>
-                                when looking at its layout. The point of using Lorem Ipsum is
-                                that it has a more-or-less normal
+                                Protect your business from online threats with our security
+                                solutions.
                             </p>
                         </div>
                     </div>
@@ -288,36 +286,32 @@
                     What Our Clients Say
                 </h2>
             </div>
-            <div class="carousel-wrap layout_padding2-top ">
-                <div class="owl-carousel">
-                    <div class="item">
-                        <div class="box">
-                            <div class="client_id">
-                                <div class="img-box">
-                                    <img src="images/client-1.jpg" alt="">
-                                </div>
-                                <div class="client_detail">
-                                    <div class="client_info">
-                                        <h6>
-                                            Jorch morik
-                                        </h6>
-                                        <i class="fa fa-star" aria-hidden="true"></i>
-                                        <i class="fa fa-star" aria-hidden="true"></i>
-                                        <i class="fa fa-star" aria-hidden="true"></i>
-                                        <i class="fa fa-star" aria-hidden="true"></i>
-                                        <i class="fa fa-star" aria-hidden="true"></i>
-                                    </div>
-                                    <i class="fa fa-quote-left" aria-hidden="true"></i>
-                                </div>
-                            </div>
-                            <div class="client_text">
-                                <p>
-                                    chunks as necessary, making this the first true generator on the Internet. It uses a
-                                    dictionary of over 200 Latin words, combined with a handful of model sentence
-                                    structures, to generate Lorem Ipsum
-                                </p>
-                            </div>
+            <div class="item">
+                <div class="box">
+                    <div class="client_id">
+                        <div class="img-box">
+                            <img src="images/client-1.jpg" alt="">
                         </div>
+                        <div class="client_detail">
+                            <div class="client_info">
+                                <h6>
+                                    Jorch morik
+                                </h6>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <i class="fa fa-quote-left" aria-hidden="true"></i>
+                        </div>
+                    </div>
+                    <div class="client_text">
+                        <p>
+                            chunks as necessary, making this the first true generator on the Internet. It uses a
+                            dictionary of over 200 Latin words, combined with a handful of model sentence
+                            structures, to generate Lorem Ipsum
+                        </p>
                     </div>
                 </div>
             </div>
@@ -442,6 +436,9 @@
                 </a>
                 <a href="">
                     <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
+                <a href="">
+                    <i class="fa-solid fa-link"></i>
                 </a>
             </div>
         </div>
