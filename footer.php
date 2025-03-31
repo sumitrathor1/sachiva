@@ -1,4 +1,27 @@
 <!-- info section -->
+<style>
+.whatsapp {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #25D366;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    cursor: pointer;
+}
+
+.whatsapp i {
+    font-size: 28px;
+    color: white;
+}
+</style>
 <section class="info_section ">
     <div class="container">
         <h4>
@@ -51,27 +74,28 @@
         </div>
     </div>
     <div class="social-box">
-        <h4>
-            Follow Us
-        </h4>
+        <h4>Follow Us</h4>
         <div class="box">
-            <a href="">
-                <i class="fa fa-facebook" aria-hidden="true"></i>
-            </a>
-            <a href="">
-                <i class="fa fa-twitter" aria-hidden="true"></i>
-            </a>
-            <a href="">
-                <i class="fa fa-youtube" aria-hidden="true"></i>
-            </a>
-            <a href="">
-                <i class="fa fa-instagram" aria-hidden="true"></i>
-            </a>
-            <a href="">
-                <i class="fa-solid fa-link"></i>
+            <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a href=""><i class="fa fa-youtube" aria-hidden="true"></i></a>
+            <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
+        </div>
+
+        <!-- Redirect Button -->
+        <div class="text-center mt-4">
+            <a href="./" class="text-white btn btn-primary px-4 py-2">
+                ORDER NOW
             </a>
         </div>
     </div>
+
+    </div>
+    <a href="https://wa.me/918818848558" target="_blank" class="whatsapp">
+        <i class="fa-brands fa-whatsapp"></i>
+    </a>
+
+
 </section>
 
 

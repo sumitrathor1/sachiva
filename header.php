@@ -8,8 +8,8 @@ function nav($activeNav) {
     $arr = [
         'home' => '<li class="nav-item"><a class="nav-link" href="./">Home <span class="sr-only">(current)</span></a></li>',
         'about' => '<li class="nav-item"><a class="nav-link" href="about.php"> About</a></li>',
-        'services' => '<li class="nav-item"><a class="nav-link" href="service.html">Services</a></li>',
-        'contact-us' => '<li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>'
+        'services' => '<li class="nav-item"><a class="nav-link" href="service.php">Services</a></li>',
+        'contact-us' => '<li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>'
     ];
 
     echo ' 
