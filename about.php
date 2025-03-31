@@ -34,38 +34,42 @@
 
 <body>
     <div class="hero_area">
-        <?php include "header.php" ?>
+        <?php include "header.php";
+        nav("about")?>
     </div>
 
     <!-- about section -->
-
     <section class="about_section layout_padding">
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-md-6">
                     <div class="detail-box">
-                        <h2>
-                            About us
-                        </h2>
+                        <h2>About Us</h2>
                         <p>
-                            There are many variations of passages of Lorem Ipsum available, but the majority have
-                            suffered alteration in some form, by injected humour, or randomisedThere are many variations
-                            of passages of Lorem Ipsum available, but the majority have suffered alteration in some
-                            form, by injected humour, or randomised
+                            At <i>Sachiva</i>, we specialize in delivering high-quality home services tailored to your
+                            needs.
+                            Our team of skilled professionals is dedicated to providing reliable, efficient, and
+                            affordable
+                            solutions for your home and workspace. From maintenance and repairs to complete home
+                            transformations, we ensure top-notch service with customer satisfaction as our top priority.
                         </p>
-                        <a href="">
-                            Read More
-                        </a>
+                        <p>
+                            With years of experience in the industry, we have built a reputation for excellence. Our
+                            commitment to quality, innovation, and customer care sets us apart, making us the preferred
+                            choice for thousands of satisfied clients.
+                        </p>
+                        <a href="services.html">Explore Our Services</a>
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-6">
                     <div class="img-box">
-                        <img src="images/about-img.jpg" alt="">
+                        <img src="images/maintenance.gif" alt="About Sachiva">
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
 
     <!-- end about section -->
 
@@ -76,10 +80,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js">
     </script>
     <script src="js/custom.js"></script>
-    <!-- Google Map -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap">
-    </script>
-    <!-- End Google Map -->
 
 
 </body>
