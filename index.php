@@ -222,11 +222,11 @@
 
     <!-- client section -->
 
-    <section class="client_section ">
+    <section class="client_section">
         <div class="container">
             <div class="heading_container heading_center">
                 <h2>
-                    What Our Clients Say
+                    Owner Message
                 </h2>
             </div>
             <div class="item">
@@ -238,28 +238,24 @@
                         <div class="client_detail">
                             <div class="client_info">
                                 <h6>
-                                    Jorch morik
+                                    Sachin Sharma
                                 </h6>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
-                                <i class="fa fa-star" aria-hidden="true"></i>
                             </div>
                             <i class="fa fa-quote-left" aria-hidden="true"></i>
                         </div>
                     </div>
                     <div class="client_text">
                         <p>
-                            chunks as necessary, making this the first true generator on the Internet. It uses a
-                            dictionary of over 200 Latin words, combined with a handful of model sentence
-                            structures, to generate Lorem Ipsum
+                            "At Sachiva, we believe in leveraging technology to empower businesses and individuals.
+                            Our mission is to provide top-notch IT solutions, ensuring security, innovation, and
+                            efficiency for our clients. Your trust drives us to deliver excellence every day."
                         </p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
 
     <!-- end client section -->
 
